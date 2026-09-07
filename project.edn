@@ -1,0 +1,8 @@
+{
+  :name "kotoba-security",
+  :description "Pure Kotoba security library replacing java.security",
+  :version "0.1.0",
+  :src "src",
+  :test "test",
+  :require ["kotoba.security"]
+}
