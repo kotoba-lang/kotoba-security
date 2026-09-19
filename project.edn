@@ -1,4 +1,0 @@
-:name kotoba-security
- :version "0.1.0"
- :description "Pure Kotoba security operations"
- :license {:name "MIT"}
